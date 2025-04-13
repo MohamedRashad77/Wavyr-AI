@@ -4,7 +4,8 @@
 
 ## 📊 Overview
 
-Wavyr AI is Your personal Cellular Network Analyzer & Predictor 📶 It is a powerful, interactive web application that helps students, telecom engineers, network administrators, and researchers analyze cellular network performance data and build predictive models. It combines data science and machine learning techniques with an intuitive interface to provide insights into network behavior and predict performance metrics.
+Wavyr AI is Your personal Cellular Network Analyzer & Predictor 📶 
+It is a powerful, interactive web application that helps students, telecom engineers, network administrators, and researchers analyze cellular network performance data and build predictive models. It combines data science and machine learning techniques with an intuitive interface to provide insights into network behavior and predict performance metrics.
 
 ## ✨ Features
 
@@ -18,6 +19,21 @@ Wavyr AI is Your personal Cellular Network Analyzer & Predictor 📶 It is a pow
   - Feature correlation analysis
   - Distribution analysis
   - Performance metric visualization
+    
+## 🧰 Technologies Used
+-Python: The core programming language
+
+-Streamlit: For the web interface
+
+-Pandas & NumPy: For data manipulation
+
+-Scikit-learn: For machine learning models
+
+-Plotly & Matplotlib: For interactive visualizations
+
+-Seaborn: For statistical visualizations
+
+-Folium: For geospatial visualizations
 
 ## 🖼️ Screenshots
 
@@ -88,11 +104,10 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-Please check out our [Contributing Guidelines](CONTRIBUTING.md) for more details.
 
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Owner
-Rashad
+Mohamed Rashad M
