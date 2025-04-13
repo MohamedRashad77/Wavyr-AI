@@ -55,8 +55,8 @@ It is a powerful, interactive web application that helps students, telecom engin
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/cellular-network-analyzer.git
-cd cellular-network-analyzer
+git clone https://github.com/MohamedRashad77/Wavyr-AI.git
+cd Wavyr-AI
 ```
 
 2. Install dependencies:
